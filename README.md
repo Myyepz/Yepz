@@ -5,4 +5,4 @@
 # Tab This Picture :)
 # [![logo](line.png)](http://line.me/ti/p/~myyepz)
 # [![Telegram](tele.png)](https://t.me/myyepz)
-# [![Instagram](ig.png)](https://www.instagram.com/syarifpy23/)
+# [![Instagram](ig.jpg)](https://www.instagram.com/syarifpy23/)
